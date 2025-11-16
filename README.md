@@ -20,7 +20,14 @@
 pip install -r requirements.txt
 ```
 
-### 2. Запуск бота
+### 2. Установка API ключей в .env
+
+```bash
+BOT_TOKEN="your_token"
+OPENROUTER_API_KEY="your_token"
+```
+
+### 3. Запуск бота
 
 ```bash
 pyhon run.py

@@ -18,4 +18,11 @@
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Запуск бота
+
+```bash
+pyhon run.py
+```
 

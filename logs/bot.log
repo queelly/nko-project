@@ -1,0 +1,1051 @@
+2025-11-16 00:34:49,479 - root - ERROR - Ошибка при запуске бота: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+2025-11-16 00:35:31,977 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 00:35:31,978 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 00:35:32,023 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 00:35:54,836 - aiogram.event - INFO - Update id=799744569 is handled. Duration 169 ms by bot id=8282864705
+2025-11-16 00:36:03,296 - aiogram.event - INFO - Update id=799744570 is handled. Duration 104 ms by bot id=8282864705
+2025-11-16 00:36:07,393 - aiogram.event - INFO - Update id=799744571 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 00:36:26,359 - aiogram.event - INFO - Update id=799744572 is handled. Duration 335 ms by bot id=8282864705
+2025-11-16 00:36:54,333 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 00:36:54,334 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 00:36:54,377 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 00:36:56,385 - aiogram.event - INFO - Update id=799744573 is handled. Duration 176 ms by bot id=8282864705
+2025-11-16 00:36:59,838 - aiogram.event - INFO - Update id=799744574 is handled. Duration 64 ms by bot id=8282864705
+2025-11-16 00:39:39,967 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-11-16 00:39:39,968 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8282864705)
+2025-11-16 00:39:40,118 - aiogram.event - INFO - Update id=799744575 is handled. Duration 140153 ms by bot id=8282864705
+2025-11-16 00:39:51,043 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8282864705)
+2025-11-16 00:42:45,308 - aiogram.event - INFO - Update id=799744576 is handled. Duration 148 ms by bot id=8282864705
+2025-11-16 00:43:20,635 - aiogram.event - INFO - Update id=799744577 is handled. Duration 31413 ms by bot id=8282864705
+2025-11-16 00:43:23,077 - aiogram.event - INFO - Update id=799744578 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 00:43:26,555 - aiogram.event - INFO - Update id=799744579 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 00:43:31,843 - aiogram.event - INFO - Update id=799744580 is handled. Duration 125 ms by bot id=8282864705
+2025-11-16 00:43:34,801 - aiogram.event - INFO - Update id=799744581 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 00:43:46,164 - aiogram.event - INFO - Update id=799744582 is handled. Duration 76 ms by bot id=8282864705
+2025-11-16 00:43:57,818 - aiogram.event - INFO - Update id=799744583 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 00:44:14,611 - aiogram.event - INFO - Update id=799744584 is handled. Duration 169 ms by bot id=8282864705
+2025-11-16 00:44:22,908 - aiogram.event - INFO - Update id=799744585 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 00:44:25,268 - aiogram.event - INFO - Update id=799744586 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 00:44:36,086 - aiogram.event - INFO - Update id=799744587 is handled. Duration 237 ms by bot id=8282864705
+2025-11-16 00:44:46,883 - aiogram.event - INFO - Update id=799744588 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 00:44:49,433 - aiogram.event - INFO - Update id=799744589 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 00:44:51,272 - aiogram.event - INFO - Update id=799744590 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 00:44:52,436 - aiogram.event - INFO - Update id=799744591 is handled. Duration 101 ms by bot id=8282864705
+2025-11-16 00:44:52,558 - aiogram.event - INFO - Update id=799744592 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 00:44:55,367 - aiogram.event - INFO - Update id=799744593 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 00:44:58,335 - aiogram.event - INFO - Update id=799744594 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 00:45:00,387 - aiogram.event - INFO - Update id=799744595 is handled. Duration 64 ms by bot id=8282864705
+2025-11-16 00:55:07,059 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 00:55:07,059 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 00:55:07,100 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 00:55:16,826 - aiogram.event - INFO - Update id=799744596 is handled. Duration 163 ms by bot id=8282864705
+2025-11-16 00:55:19,008 - aiogram.event - INFO - Update id=799744597 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 00:55:21,296 - aiogram.event - INFO - Update id=799744598 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 00:55:31,886 - aiogram.event - INFO - Update id=799744599 is handled. Duration 268 ms by bot id=8282864705
+2025-11-16 00:56:17,388 - aiogram.event - INFO - Update id=799744600 is handled. Duration 145 ms by bot id=8282864705
+2025-11-16 00:57:11,611 - aiogram.event - INFO - Update id=799744601 is handled. Duration 27866 ms by bot id=8282864705
+2025-11-16 00:59:50,854 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 00:59:50,855 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 00:59:50,897 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 00:59:54,898 - aiogram.event - INFO - Update id=799744602 is handled. Duration 158 ms by bot id=8282864705
+2025-11-16 01:01:40,741 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-11-16 01:01:40,742 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8282864705)
+2025-11-16 01:01:40,905 - aiogram.event - INFO - Update id=799744603 is handled. Duration 92276 ms by bot id=8282864705
+2025-11-16 01:01:51,850 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8282864705)
+2025-11-16 01:03:00,814 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:03:00,815 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:03:00,866 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:03:05,479 - aiogram.event - INFO - Update id=799744604 is handled. Duration 167 ms by bot id=8282864705
+2025-11-16 01:03:36,349 - aiogram.event - INFO - Update id=799744605 is handled. Duration 24391 ms by bot id=8282864705
+2025-11-16 01:05:33,018 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:05:33,018 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:05:33,059 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:05:48,111 - aiogram.event - INFO - Update id=799744606 is handled. Duration 233 ms by bot id=8282864705
+2025-11-16 01:06:47,768 - aiogram.event - INFO - Update id=799744607 is handled. Duration 50408 ms by bot id=8282864705
+2025-11-16 01:09:36,346 - aiogram.event - INFO - Update id=799744608 is handled. Duration 149 ms by bot id=8282864705
+2025-11-16 01:10:36,370 - aiogram.event - INFO - Update id=799744609 is handled. Duration 51292 ms by bot id=8282864705
+2025-11-16 01:11:32,517 - aiogram.event - INFO - Update id=799744610 is handled. Duration 247 ms by bot id=8282864705
+2025-11-16 01:11:34,918 - aiogram.event - INFO - Update id=799744611 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 01:11:35,254 - aiogram.event - INFO - Update id=799744612 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 01:12:28,834 - aiogram.event - INFO - Update id=799744614 is handled. Duration 142 ms by bot id=8282864705
+2025-11-16 01:12:28,876 - aiogram.event - INFO - Update id=799744615 is handled. Duration 143 ms by bot id=8282864705
+2025-11-16 01:12:29,162 - aiogram.event - INFO - Update id=799744613 is handled. Duration 50456 ms by bot id=8282864705
+2025-11-16 01:12:39,440 - aiogram.event - INFO - Update id=799744616 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 01:12:42,643 - aiogram.event - INFO - Update id=799744617 is handled. Duration 57 ms by bot id=8282864705
+2025-11-16 01:12:44,936 - aiogram.event - INFO - Update id=799744618 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 01:13:42,283 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:13:42,283 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:13:42,323 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:14:29,315 - aiogram.event - INFO - Update id=799744620 is handled. Duration 156 ms by bot id=8282864705
+2025-11-16 01:14:31,383 - aiogram.event - INFO - Update id=799744621 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 01:14:33,348 - aiogram.event - INFO - Update id=799744622 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 01:14:34,242 - aiogram.event - INFO - Update id=799744623 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 01:14:34,819 - aiogram.event - INFO - Update id=799744624 is handled. Duration 114 ms by bot id=8282864705
+2025-11-16 01:14:42,129 - aiogram.event - INFO - Update id=799744625 is handled. Duration 62 ms by bot id=8282864705
+2025-11-16 01:14:43,535 - aiogram.event - INFO - Update id=799744626 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 01:14:50,078 - aiogram.event - INFO - Update id=799744627 is handled. Duration 316 ms by bot id=8282864705
+2025-11-16 01:16:48,127 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:16:48,128 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:16:48,170 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:16:50,972 - aiogram.event - INFO - Update id=799744628 is handled. Duration 158 ms by bot id=8282864705
+2025-11-16 01:16:53,395 - aiogram.event - INFO - Update id=799744629 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 01:16:59,786 - aiogram.event - INFO - Update id=799744630 is handled. Duration 459 ms by bot id=8282864705
+2025-11-16 01:18:09,958 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:18:09,958 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:18:10,003 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:18:13,384 - aiogram.event - INFO - Update id=799744631 is handled. Duration 160 ms by bot id=8282864705
+2025-11-16 01:18:15,164 - aiogram.event - INFO - Update id=799744632 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 01:18:20,187 - aiogram.event - INFO - Update id=799744633 is handled. Duration 514 ms by bot id=8282864705
+2025-11-16 01:20:10,436 - aiogram.event - INFO - Update id=799744634 is handled. Duration 151 ms by bot id=8282864705
+2025-11-16 01:20:34,913 - aiogram.event - INFO - Update id=799744635 is handled. Duration 189 ms by bot id=8282864705
+2025-11-16 01:23:24,112 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:23:24,112 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:23:24,152 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:23:26,547 - aiogram.event - INFO - Update id=799744824 is handled. Duration 207 ms by bot id=8282864705
+2025-11-16 01:23:26,562 - aiogram.event - INFO - Update id=799744825 is handled. Duration 181 ms by bot id=8282864705
+2025-11-16 01:23:27,194 - aiogram.event - INFO - Update id=799744826 is handled. Duration 57 ms by bot id=8282864705
+2025-11-16 01:23:29,198 - aiogram.event - INFO - Update id=799744827 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 01:24:09,898 - aiogram.event - INFO - Update id=799744828 is handled. Duration 34529 ms by bot id=8282864705
+2025-11-16 01:24:38,335 - aiogram.event - INFO - Update id=799744829 is handled. Duration 229 ms by bot id=8282864705
+2025-11-16 01:24:42,405 - aiogram.event - INFO - Update id=799744830 is handled. Duration 102 ms by bot id=8282864705
+2025-11-16 01:25:43,362 - aiogram.event - INFO - Update id=799744832 is not handled. Duration 137 ms by bot id=8282864705
+2025-11-16 01:25:43,362 - aiogram.event - ERROR - Cause exception while process update id=799744832 by bot id=8282864705
+TelegramForbiddenError: Telegram server says - Forbidden: bot was blocked by the user
+Traceback (most recent call last):
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/app/handlers/start.py", line 22, in cmd_start
+    await message.answer(welcome_text, reply_markup=get_main_keyboard())
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/queelly/programming/projects/nko-project/.venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 128, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot was blocked by the user
+2025-11-16 01:25:43,641 - aiogram.event - INFO - Update id=799744831 is handled. Duration 50892 ms by bot id=8282864705
+2025-11-16 01:25:50,341 - aiogram.event - INFO - Update id=799744833 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 01:25:57,063 - aiogram.event - INFO - Update id=799744834 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 01:26:58,685 - aiogram.event - INFO - Update id=799744835 is handled. Duration 51299 ms by bot id=8282864705
+2025-11-16 01:27:35,077 - aiogram.event - INFO - Update id=799744836 is handled. Duration 145 ms by bot id=8282864705
+2025-11-16 01:29:48,504 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:29:48,504 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:29:48,546 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:29:57,595 - aiogram.event - INFO - Update id=799744838 is handled. Duration 184 ms by bot id=8282864705
+2025-11-16 01:29:59,259 - aiogram.event - INFO - Update id=799744839 is handled. Duration 98 ms by bot id=8282864705
+2025-11-16 01:30:07,911 - aiogram.event - INFO - Update id=799744841 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 01:30:21,673 - aiogram.event - INFO - Update id=799744840 is handled. Duration 17583 ms by bot id=8282864705
+2025-11-16 01:31:54,551 - aiogram.event - INFO - Update id=799744842 is handled. Duration 251 ms by bot id=8282864705
+2025-11-16 01:31:56,777 - aiogram.event - INFO - Update id=799744843 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 01:32:38,034 - aiogram.event - INFO - Update id=799744844 is handled. Duration 13668 ms by bot id=8282864705
+2025-11-16 01:35:20,046 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:35:20,047 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:35:20,093 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:35:32,824 - aiogram.event - INFO - Update id=799744845 is handled. Duration 153 ms by bot id=8282864705
+2025-11-16 01:35:34,871 - aiogram.event - INFO - Update id=799744846 is handled. Duration 59 ms by bot id=8282864705
+2025-11-16 01:35:39,585 - aiogram.event - INFO - Update id=799744847 is handled. Duration 805 ms by bot id=8282864705
+2025-11-16 01:36:26,330 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 01:36:26,330 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 01:36:26,375 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 01:36:29,055 - aiogram.event - INFO - Update id=799744848 is handled. Duration 166 ms by bot id=8282864705
+2025-11-16 01:36:31,434 - aiogram.event - INFO - Update id=799744849 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 01:37:26,199 - aiogram.event - INFO - Update id=799744850 is handled. Duration 49863 ms by bot id=8282864705
+2025-11-16 01:38:55,150 - aiogram.event - INFO - Update id=799744851 is handled. Duration 140 ms by bot id=8282864705
+2025-11-16 01:38:59,168 - aiogram.event - INFO - Update id=799744852 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 01:40:57,000 - aiogram.event - INFO - Update id=799744853 is handled. Duration 98951 ms by bot id=8282864705
+2025-11-16 01:41:30,613 - aiogram.event - INFO - Update id=799744854 is handled. Duration 152 ms by bot id=8282864705
+2025-11-16 01:42:36,969 - aiogram.event - INFO - Update id=799744855 is handled. Duration 50539 ms by bot id=8282864705
+2025-11-16 01:44:24,997 - aiogram.event - INFO - Update id=799744856 is handled. Duration 150 ms by bot id=8282864705
+2025-11-16 01:45:20,699 - aiogram.event - INFO - Update id=799744859 is not handled. Duration 1 ms by bot id=8282864705
+2025-11-16 01:45:20,806 - aiogram.event - INFO - Update id=799744858 is handled. Duration 150 ms by bot id=8282864705
+2025-11-16 01:45:21,098 - aiogram.event - INFO - Update id=799744857 is handled. Duration 49699 ms by bot id=8282864705
+2025-11-16 01:45:31,721 - aiogram.event - INFO - Update id=799744860 is handled. Duration 109 ms by bot id=8282864705
+2025-11-16 01:45:32,101 - aiogram.event - INFO - Update id=799744861 is handled. Duration 86 ms by bot id=8282864705
+2025-11-16 01:45:34,444 - aiogram.event - INFO - Update id=799744862 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 01:46:24,629 - aiogram.event - INFO - Update id=799744864 is handled. Duration 143 ms by bot id=8282864705
+2025-11-16 01:46:24,685 - aiogram.event - INFO - Update id=799744865 is handled. Duration 157 ms by bot id=8282864705
+2025-11-16 01:46:24,702 - aiogram.event - INFO - Update id=799744866 is handled. Duration 173 ms by bot id=8282864705
+2025-11-16 01:46:24,902 - aiogram.event - INFO - Update id=799744863 is handled. Duration 49501 ms by bot id=8282864705
+2025-11-16 01:47:38,433 - aiogram.event - INFO - Update id=799744867 is handled. Duration 154 ms by bot id=8282864705
+2025-11-16 01:47:45,099 - aiogram.event - INFO - Update id=799744868 is handled. Duration 62 ms by bot id=8282864705
+2025-11-16 01:48:20,246 - aiogram.event - INFO - Update id=799744869 is handled. Duration 25480 ms by bot id=8282864705
+2025-11-16 01:49:31,684 - aiogram.event - INFO - Update id=799744870 is handled. Duration 147 ms by bot id=8282864705
+2025-11-16 01:49:39,787 - aiogram.event - INFO - Update id=799744871 is handled. Duration 59 ms by bot id=8282864705
+2025-11-16 01:49:47,853 - aiogram.event - INFO - Update id=799744872 is handled. Duration 58 ms by bot id=8282864705
+2025-11-16 01:49:54,852 - aiogram.event - INFO - Update id=799744873 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 01:49:57,095 - aiogram.event - INFO - Update id=799744874 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 01:50:00,563 - aiogram.event - INFO - Update id=799744875 is handled. Duration 76 ms by bot id=8282864705
+2025-11-16 01:50:45,584 - aiogram.event - INFO - Update id=799744876 is handled. Duration 35750 ms by bot id=8282864705
+2025-11-16 01:51:45,941 - aiogram.event - INFO - Update id=799744877 is handled. Duration 153 ms by bot id=8282864705
+2025-11-16 01:52:43,618 - aiogram.event - INFO - Update id=799744878 is handled. Duration 49542 ms by bot id=8282864705
+2025-11-16 01:53:06,290 - aiogram.event - INFO - Update id=799744879 is not handled. Duration 2 ms by bot id=8282864705
+2025-11-16 01:53:18,495 - aiogram.event - INFO - Update id=799744880 is handled. Duration 247 ms by bot id=8282864705
+2025-11-16 01:53:21,488 - aiogram.event - INFO - Update id=799744881 is handled. Duration 59 ms by bot id=8282864705
+2025-11-16 01:53:26,819 - aiogram.event - INFO - Update id=799744882 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 01:53:29,534 - aiogram.event - INFO - Update id=799744883 is handled. Duration 119 ms by bot id=8282864705
+2025-11-16 01:53:31,731 - aiogram.event - INFO - Update id=799744884 is handled. Duration 62 ms by bot id=8282864705
+2025-11-16 01:53:35,898 - aiogram.event - INFO - Update id=799744885 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 01:53:38,290 - aiogram.event - INFO - Update id=799744886 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 01:54:32,922 - aiogram.event - INFO - Update id=799744887 is handled. Duration 49562 ms by bot id=8282864705
+2025-11-16 01:54:47,510 - aiogram.event - INFO - Update id=799744888 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 01:54:49,869 - aiogram.event - INFO - Update id=799744889 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 01:54:52,013 - aiogram.event - INFO - Update id=799744890 is handled. Duration 62 ms by bot id=8282864705
+2025-11-16 01:54:53,975 - aiogram.event - INFO - Update id=799744891 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 01:54:55,088 - aiogram.event - INFO - Update id=799744892 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 01:55:56,489 - aiogram.event - INFO - Update id=799744893 is handled. Duration 49482 ms by bot id=8282864705
+2025-11-16 01:56:01,175 - aiogram.event - INFO - Update id=799744894 is handled. Duration 64 ms by bot id=8282864705
+2025-11-16 01:56:57,320 - aiogram.event - INFO - Update id=799744895 is handled. Duration 49591 ms by bot id=8282864705
+2025-11-16 02:56:06,691 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 02:56:06,691 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 02:56:06,732 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 02:56:14,881 - aiogram.event - INFO - Update id=799744896 is handled. Duration 152 ms by bot id=8282864705
+2025-11-16 02:56:47,039 - aiogram.event - INFO - Update id=799744898 is not handled. Duration 2 ms by bot id=8282864705
+2025-11-16 02:56:50,670 - aiogram.event - INFO - Update id=799744899 is handled. Duration 142 ms by bot id=8282864705
+2025-11-16 02:57:05,201 - aiogram.event - INFO - Update id=799744897 is handled. Duration 40813 ms by bot id=8282864705
+2025-11-16 02:57:18,457 - aiogram.event - INFO - Update id=799744901 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 02:58:03,058 - aiogram.event - INFO - Update id=799744900 is handled. Duration 69355 ms by bot id=8282864705
+2025-11-16 02:58:31,660 - aiogram.event - INFO - Update id=799744902 is handled. Duration 69534 ms by bot id=8282864705
+2025-11-16 03:02:17,286 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 03:02:17,286 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 03:02:17,328 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:02:20,320 - aiogram.event - INFO - Update id=799744903 is handled. Duration 169 ms by bot id=8282864705
+2025-11-16 03:03:21,577 - aiogram.event - INFO - Update id=799744906 is handled. Duration 121 ms by bot id=8282864705
+2025-11-16 03:05:12,225 - aiogram.event - INFO - Update id=799744905 is handled. Duration 118381 ms by bot id=8282864705
+2025-11-16 03:05:12,541 - aiogram.event - INFO - Update id=799744904 is handled. Duration 164599 ms by bot id=8282864705
+2025-11-16 03:05:38,388 - aiogram.event - INFO - Update id=799744907 is handled. Duration 142 ms by bot id=8282864705
+2025-11-16 03:05:47,530 - aiogram.event - INFO - Update id=799744908 is handled. Duration 1016 ms by bot id=8282864705
+2025-11-16 03:09:48,280 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-16 03:09:48,281 - aiogram.dispatcher - INFO - Polling stopped for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:09:48,281 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-16 03:09:51,976 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 03:09:51,976 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 03:09:52,017 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:09:55,551 - aiogram.event - INFO - Update id=799744909 is handled. Duration 157 ms by bot id=8282864705
+2025-11-16 03:10:27,839 - aiogram.event - INFO - Update id=799744910 is handled. Duration 21451 ms by bot id=8282864705
+2025-11-16 03:10:51,309 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 03:10:51,309 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 03:10:51,349 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:10:54,902 - aiogram.event - INFO - Update id=799744911 is handled. Duration 167 ms by bot id=8282864705
+2025-11-16 03:11:36,998 - aiogram.event - INFO - Update id=799744912 is handled. Duration 25987 ms by bot id=8282864705
+2025-11-16 03:12:23,157 - aiogram.event - INFO - Update id=799744913 is handled. Duration 152 ms by bot id=8282864705
+2025-11-16 03:13:07,281 - aiogram.event - INFO - Update id=799744914 is handled. Duration 24502 ms by bot id=8282864705
+2025-11-16 03:13:24,258 - aiogram.event - INFO - Update id=799744915 is handled. Duration 148 ms by bot id=8282864705
+2025-11-16 03:14:44,058 - aiogram.event - INFO - Update id=799744918 is handled. Duration 226 ms by bot id=8282864705
+2025-11-16 03:15:10,593 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 03:15:10,593 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 03:15:10,635 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:15:16,324 - aiogram.event - INFO - Update id=799744919 is not handled. Duration 1 ms by bot id=8282864705
+2025-11-16 03:15:23,300 - aiogram.event - INFO - Update id=799744920 is handled. Duration 152 ms by bot id=8282864705
+2025-11-16 03:15:30,646 - aiogram.event - INFO - Update id=799744921 is handled. Duration 58 ms by bot id=8282864705
+2025-11-16 03:16:10,305 - aiogram.event - INFO - Update id=799744922 is handled. Duration 23668 ms by bot id=8282864705
+2025-11-16 03:16:18,612 - aiogram.event - INFO - Update id=799744923 is handled. Duration 127 ms by bot id=8282864705
+2025-11-16 03:16:59,753 - aiogram.event - INFO - Update id=799744924 is handled. Duration 21633 ms by bot id=8282864705
+2025-11-16 03:18:53,555 - aiogram.event - INFO - Update id=799744925 is handled. Duration 150 ms by bot id=8282864705
+2025-11-16 03:19:19,220 - aiogram.event - INFO - Update id=799744926 is handled. Duration 23979 ms by bot id=8282864705
+2025-11-16 03:19:38,899 - aiogram.event - INFO - Update id=799744927 is handled. Duration 146 ms by bot id=8282864705
+2025-11-16 03:20:04,942 - aiogram.event - INFO - Update id=799744928 is handled. Duration 25105 ms by bot id=8282864705
+2025-11-16 03:22:13,805 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-16 03:22:13,806 - aiogram.dispatcher - INFO - Polling stopped for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:22:13,807 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-16 03:22:17,957 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 03:22:17,958 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 03:22:17,998 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:22:52,531 - aiogram.event - INFO - Update id=799744929 is handled. Duration 155 ms by bot id=8282864705
+2025-11-16 03:23:27,601 - aiogram.event - INFO - Update id=799744930 is handled. Duration 25698 ms by bot id=8282864705
+2025-11-16 03:24:31,469 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 03:24:31,469 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 03:24:31,514 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:24:35,658 - aiogram.event - INFO - Update id=799744931 is handled. Duration 168 ms by bot id=8282864705
+2025-11-16 03:25:57,110 - aiogram.event - INFO - Update id=799744932 is handled. Duration 76578 ms by bot id=8282864705
+2025-11-16 03:26:01,966 - aiogram.event - INFO - Update id=799744933 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 03:26:37,433 - aiogram.event - INFO - Update id=799744934 is handled. Duration 26944 ms by bot id=8282864705
+2025-11-16 03:26:39,628 - aiogram.event - INFO - Update id=799744935 is handled. Duration 59 ms by bot id=8282864705
+2025-11-16 03:27:26,133 - aiogram.event - INFO - Update id=799744936 is handled. Duration 26617 ms by bot id=8282864705
+2025-11-16 03:28:15,573 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 03:28:15,573 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 03:28:15,614 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 03:28:17,110 - aiogram.event - INFO - Update id=799744937 is handled. Duration 156 ms by bot id=8282864705
+2025-11-16 03:29:52,787 - aiogram.event - INFO - Update id=799744938 is handled. Duration 88962 ms by bot id=8282864705
+2025-11-16 03:29:59,596 - aiogram.event - INFO - Update id=799744940 is handled. Duration 392 ms by bot id=8282864705
+2025-11-16 03:30:01,130 - aiogram.event - INFO - Update id=799744939 is handled. Duration 87839 ms by bot id=8282864705
+2025-11-16 03:30:03,163 - aiogram.event - INFO - Update id=799744941 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 03:30:14,305 - aiogram.event - INFO - Update id=799744942 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 03:30:45,659 - aiogram.event - INFO - Update id=799744946 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 03:30:52,415 - aiogram.event - INFO - Update id=799744947 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 03:30:54,966 - aiogram.event - INFO - Update id=799744948 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 03:30:59,828 - aiogram.event - INFO - Update id=799744949 is handled. Duration 103 ms by bot id=8282864705
+2025-11-16 03:31:08,839 - aiogram.event - INFO - Update id=799744950 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 03:31:27,462 - aiogram.event - INFO - Update id=799744951 is handled. Duration 168 ms by bot id=8282864705
+2025-11-16 03:31:37,550 - aiogram.event - INFO - Update id=799744952 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 03:31:42,511 - aiogram.event - INFO - Update id=799744953 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 03:31:48,773 - aiogram.event - INFO - Update id=799744954 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 03:32:32,211 - aiogram.event - INFO - Update id=799744955 is handled. Duration 18326 ms by bot id=8282864705
+2025-11-16 03:33:04,602 - aiogram.event - INFO - Update id=799744943 is handled. Duration 153652 ms by bot id=8282864705
+2025-11-16 03:33:05,423 - aiogram.event - INFO - Update id=799744944 is handled. Duration 152636 ms by bot id=8282864705
+2025-11-16 03:33:11,785 - aiogram.event - INFO - Update id=799744945 is handled. Duration 149168 ms by bot id=8282864705
+2025-11-16 03:33:29,728 - aiogram.event - INFO - Update id=799744956 is handled. Duration 147 ms by bot id=8282864705
+2025-11-16 10:38:18,387 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 10:38:18,387 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 10:38:18,428 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 10:39:04,240 - aiogram.event - INFO - Update id=799744958 is handled. Duration 236 ms by bot id=8282864705
+2025-11-16 10:39:58,453 - aiogram.event - INFO - Update id=799744959 is handled. Duration 50679 ms by bot id=8282864705
+2025-11-16 10:40:48,041 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-16 10:40:48,043 - aiogram.dispatcher - INFO - Polling stopped for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 10:40:48,043 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-16 10:40:51,819 - root - INFO - Бот запущен и готов к работе!
+2025-11-16 10:40:51,819 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 10:40:51,865 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 10:42:14,768 - aiogram.event - INFO - Update id=799744960 is handled. Duration 189 ms by bot id=8282864705
+2025-11-16 10:44:04,932 - aiogram.event - INFO - Update id=799744962 is not handled. Duration 1 ms by bot id=8282864705
+2025-11-16 10:44:05,508 - aiogram.event - INFO - Update id=799744961 is handled. Duration 94252 ms by bot id=8282864705
+2025-11-16 10:44:16,230 - aiogram.event - INFO - Update id=799744963 is not handled. Duration 3 ms by bot id=8282864705
+2025-11-16 10:44:16,230 - aiogram.event - INFO - Update id=799744964 is not handled. Duration 3 ms by bot id=8282864705
+2025-11-16 10:46:29,028 - aiogram.event - INFO - Update id=799744965 is not handled. Duration 1 ms by bot id=8282864705
+2025-11-16 12:43:02,199 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 12:43:02,200 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 12:43:02,240 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 12:43:19,094 - aiogram.event - INFO - Update id=799744967 is handled. Duration 169 ms by bot id=8282864705
+2025-11-16 12:43:29,759 - aiogram.event - INFO - Update id=799744968 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 12:43:46,486 - aiogram.event - INFO - Update id=799744969 is handled. Duration 238 ms by bot id=8282864705
+2025-11-16 12:43:55,671 - aiogram.event - INFO - Update id=799744970 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 12:44:08,509 - aiogram.event - INFO - Update id=799744971 is handled. Duration 208 ms by bot id=8282864705
+2025-11-16 12:44:11,546 - aiogram.event - INFO - Update id=799744972 is handled. Duration 73 ms by bot id=8282864705
+2025-11-16 12:44:12,822 - aiogram.event - INFO - Update id=799744973 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 12:44:15,630 - aiogram.event - INFO - Update id=799744974 is handled. Duration 60 ms by bot id=8282864705
+2025-11-16 12:44:25,108 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 12:44:25,108 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 12:44:25,154 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 12:44:25,760 - aiogram.event - INFO - Update id=799744975 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 12:44:29,094 - aiogram.event - INFO - Update id=799744976 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:44:33,853 - aiogram.event - INFO - Update id=799744977 is handled. Duration 218 ms by bot id=8282864705
+2025-11-16 12:44:35,847 - aiogram.event - INFO - Update id=799744978 is handled. Duration 383 ms by bot id=8282864705
+2025-11-16 12:44:38,069 - aiogram.event - INFO - Update id=799744979 is handled. Duration 73 ms by bot id=8282864705
+2025-11-16 12:44:49,521 - aiogram.event - INFO - Update id=799744980 is handled. Duration 82 ms by bot id=8282864705
+2025-11-16 12:51:53,768 - aiogram.event - INFO - Update id=799744981 is handled. Duration 161 ms by bot id=8282864705
+2025-11-16 12:51:56,912 - aiogram.event - INFO - Update id=799744982 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 12:52:04,132 - aiogram.event - INFO - Update id=799744983 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 12:52:11,285 - aiogram.event - INFO - Update id=799744984 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 12:55:53,317 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 12:55:53,318 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 12:55:53,358 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 12:56:01,620 - aiogram.event - INFO - Update id=799744985 is not handled. Duration 3 ms by bot id=8282864705
+2025-11-16 12:56:05,627 - aiogram.event - INFO - Update id=799744986 is handled. Duration 181 ms by bot id=8282864705
+2025-11-16 12:56:07,590 - aiogram.event - INFO - Update id=799744987 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 12:56:09,062 - aiogram.event - INFO - Update id=799744988 is handled. Duration 76 ms by bot id=8282864705
+2025-11-16 12:56:13,146 - aiogram.event - INFO - Update id=799744989 is handled. Duration 176 ms by bot id=8282864705
+2025-11-16 12:56:15,618 - aiogram.event - INFO - Update id=799744990 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 12:56:21,429 - aiogram.event - INFO - Update id=799744991 is handled. Duration 108 ms by bot id=8282864705
+2025-11-16 12:56:22,896 - aiogram.event - INFO - Update id=799744992 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 12:57:07,725 - aiogram.event - INFO - Update id=799744993 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:57:22,922 - aiogram.event - INFO - Update id=799744994 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:57:36,652 - aiogram.event - INFO - Update id=799744995 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 12:57:45,229 - aiogram.event - INFO - Update id=799744996 is not handled. Duration 11 ms by bot id=8282864705
+2025-11-16 12:57:56,446 - aiogram.event - INFO - Update id=799744997 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:58:06,415 - aiogram.event - INFO - Update id=799744998 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:58:07,711 - aiogram.event - INFO - Update id=799744999 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:58:12,529 - aiogram.event - INFO - Update id=799745000 is not handled. Duration 4 ms by bot id=8282864705
+2025-11-16 12:58:16,021 - aiogram.event - INFO - Update id=799745001 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:58:21,849 - aiogram.event - INFO - Update id=799745002 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:58:32,784 - aiogram.event - INFO - Update id=799745003 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 12:59:00,801 - aiogram.event - INFO - Update id=799745004 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 12:59:33,382 - aiogram.event - INFO - Update id=799745005 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 12:59:43,064 - aiogram.event - INFO - Update id=799745006 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 13:01:16,636 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 13:01:16,637 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 13:01:16,682 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 13:01:21,619 - aiogram.event - INFO - Update id=799745012 is handled. Duration 162 ms by bot id=8282864705
+2025-11-16 13:01:23,209 - aiogram.event - INFO - Update id=799745013 is handled. Duration 76 ms by bot id=8282864705
+2025-11-16 13:01:25,122 - aiogram.event - INFO - Update id=799745014 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 13:01:26,465 - aiogram.event - INFO - Update id=799745015 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 13:07:09,314 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 13:07:09,314 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 13:07:09,356 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 13:07:15,571 - aiogram.event - INFO - Update id=799745027 is handled. Duration 166 ms by bot id=8282864705
+2025-11-16 13:07:17,410 - aiogram.event - INFO - Update id=799745028 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 13:07:19,527 - aiogram.event - INFO - Update id=799745029 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 13:07:21,174 - aiogram.event - INFO - Update id=799745030 is handled. Duration 88 ms by bot id=8282864705
+2025-11-16 13:07:22,386 - aiogram.event - INFO - Update id=799745031 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 13:07:25,264 - aiogram.event - INFO - Update id=799745032 is handled. Duration 135 ms by bot id=8282864705
+2025-11-16 13:07:34,471 - aiogram.event - INFO - Update id=799745033 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 13:07:39,351 - aiogram.event - INFO - Update id=799745034 is handled. Duration 157 ms by bot id=8282864705
+2025-11-16 13:07:48,818 - aiogram.event - INFO - Update id=799745035 is handled. Duration 64 ms by bot id=8282864705
+2025-11-16 13:07:54,470 - aiogram.event - INFO - Update id=799745036 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 13:08:08,548 - aiogram.event - INFO - Update id=799745037 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 13:08:12,060 - aiogram.event - INFO - Update id=799745038 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 13:08:14,474 - aiogram.event - INFO - Update id=799745039 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 13:08:53,144 - aiogram.event - INFO - Update id=799745040 is handled. Duration 37099 ms by bot id=8282864705
+2025-11-16 13:08:59,141 - aiogram.event - INFO - Update id=799745041 is not handled. Duration 10 ms by bot id=8282864705
+2025-11-16 13:09:11,575 - aiogram.event - INFO - Update id=799745042 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 13:09:36,234 - aiogram.event - INFO - Update id=799745043 is not handled. Duration 5 ms by bot id=8282864705
+2025-11-16 13:09:42,000 - aiogram.event - INFO - Update id=799745044 is handled. Duration 163 ms by bot id=8282864705
+2025-11-16 13:09:48,274 - aiogram.event - INFO - Update id=799745045 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 13:09:52,595 - aiogram.event - INFO - Update id=799745046 is handled. Duration 108 ms by bot id=8282864705
+2025-11-16 13:10:09,140 - aiogram.event - INFO - Update id=799745047 is handled. Duration 156 ms by bot id=8282864705
+2025-11-16 13:10:41,868 - aiogram.event - INFO - Update id=799745048 is handled. Duration 27162 ms by bot id=8282864705
+2025-11-16 13:17:09,099 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 13:17:09,099 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 13:17:09,140 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 13:17:16,485 - aiogram.event - INFO - Update id=799745049 is handled. Duration 260 ms by bot id=8282864705
+2025-11-16 13:17:20,766 - aiogram.event - INFO - Update id=799745050 is not handled. Duration 11 ms by bot id=8282864705
+2025-11-16 13:17:25,151 - aiogram.event - INFO - Update id=799745051 is handled. Duration 111 ms by bot id=8282864705
+2025-11-16 13:17:46,631 - aiogram.event - INFO - Update id=799745052 is handled. Duration 170 ms by bot id=8282864705
+2025-11-16 13:18:18,590 - aiogram.event - INFO - Update id=799745053 is handled. Duration 217 ms by bot id=8282864705
+2025-11-16 13:18:42,351 - aiogram.event - INFO - Update id=799745054 is handled. Duration 202 ms by bot id=8282864705
+2025-11-16 13:18:48,110 - aiogram.event - INFO - Update id=799745055 is handled. Duration 160 ms by bot id=8282864705
+2025-11-16 13:19:14,668 - aiogram.event - INFO - Update id=799745056 is handled. Duration 160 ms by bot id=8282864705
+2025-11-16 13:19:32,504 - aiogram.event - INFO - Update id=799745057 is handled. Duration 206 ms by bot id=8282864705
+2025-11-16 13:19:37,062 - aiogram.event - INFO - Update id=799745058 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 13:19:44,731 - aiogram.event - INFO - Update id=799745060 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 13:19:49,158 - aiogram.event - INFO - Update id=799745061 is handled. Duration 191 ms by bot id=8282864705
+2025-11-16 13:19:53,801 - aiogram.event - INFO - Update id=799745062 is handled. Duration 105 ms by bot id=8282864705
+2025-11-16 13:20:03,958 - aiogram.event - INFO - Update id=799745063 is handled. Duration 127 ms by bot id=8282864705
+2025-11-16 13:20:05,811 - aiogram.event - INFO - Update id=799745064 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 13:20:06,819 - aiogram.event - INFO - Update id=799745065 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 13:20:08,361 - aiogram.event - INFO - Update id=799745066 is handled. Duration 85 ms by bot id=8282864705
+2025-11-16 13:20:16,491 - aiogram.event - INFO - Update id=799745059 is handled. Duration 35035 ms by bot id=8282864705
+2025-11-16 13:20:20,777 - aiogram.event - INFO - Update id=799745067 is handled. Duration 81 ms by bot id=8282864705
+2025-11-16 13:20:29,479 - aiogram.event - INFO - Update id=799745068 is handled. Duration 134 ms by bot id=8282864705
+2025-11-16 13:20:44,476 - aiogram.event - INFO - Update id=799745069 is handled. Duration 85 ms by bot id=8282864705
+2025-11-16 13:20:45,260 - aiogram.event - INFO - Update id=799745070 is handled. Duration 91 ms by bot id=8282864705
+2025-11-16 13:20:49,338 - aiogram.event - INFO - Update id=799745071 is handled. Duration 76 ms by bot id=8282864705
+2025-11-16 13:20:53,480 - aiogram.event - INFO - Update id=799745072 is handled. Duration 82 ms by bot id=8282864705
+2025-11-16 13:20:55,222 - aiogram.event - INFO - Update id=799745073 is handled. Duration 99 ms by bot id=8282864705
+2025-11-16 13:20:56,315 - aiogram.event - INFO - Update id=799745074 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 13:20:57,512 - aiogram.event - INFO - Update id=799745075 is handled. Duration 86 ms by bot id=8282864705
+2025-11-16 13:23:28,275 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 13:23:28,275 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 13:23:28,319 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 13:23:30,612 - aiogram.event - INFO - Update id=799745077 is not handled. Duration 3 ms by bot id=8282864705
+2025-11-16 13:23:34,293 - aiogram.event - INFO - Update id=799745078 is handled. Duration 162 ms by bot id=8282864705
+2025-11-16 13:23:36,612 - aiogram.event - INFO - Update id=799745079 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 13:23:38,540 - aiogram.event - INFO - Update id=799745080 is handled. Duration 64 ms by bot id=8282864705
+2025-11-16 13:23:44,656 - aiogram.event - INFO - Update id=799745081 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 13:23:48,606 - aiogram.event - INFO - Update id=799745082 is handled. Duration 85 ms by bot id=8282864705
+2025-11-16 13:23:53,034 - aiogram.event - INFO - Update id=799745083 is handled. Duration 331 ms by bot id=8282864705
+2025-11-16 13:24:31,721 - aiogram.event - INFO - Update id=799745084 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 13:24:32,780 - aiogram.event - INFO - Update id=799745085 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 13:24:34,278 - aiogram.event - INFO - Update id=799745086 is handled. Duration 158 ms by bot id=8282864705
+2025-11-16 13:24:36,256 - aiogram.event - INFO - Update id=799745087 is handled. Duration 75 ms by bot id=8282864705
+2025-11-16 13:24:39,570 - aiogram.event - INFO - Update id=799745088 is handled. Duration 206 ms by bot id=8282864705
+2025-11-16 13:24:41,350 - aiogram.event - INFO - Update id=799745089 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 13:24:53,539 - aiogram.event - INFO - Update id=799745090 is handled. Duration 139 ms by bot id=8282864705
+2025-11-16 13:29:05,389 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 13:29:05,389 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 13:29:05,436 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 13:29:13,240 - aiogram.event - INFO - Update id=799745091 is handled. Duration 159 ms by bot id=8282864705
+2025-11-16 13:29:20,257 - aiogram.event - INFO - Update id=799745092 is handled. Duration 140 ms by bot id=8282864705
+2025-11-16 13:30:07,911 - aiogram.event - INFO - Update id=799745093 is handled. Duration 40612 ms by bot id=8282864705
+2025-11-16 13:30:55,910 - aiogram.event - INFO - Update id=799745094 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 13:31:04,258 - aiogram.event - INFO - Update id=799745095 is not handled. Duration 11 ms by bot id=8282864705
+2025-11-16 13:31:06,543 - aiogram.event - INFO - Update id=799745096 is handled. Duration 249 ms by bot id=8282864705
+2025-11-16 13:31:11,435 - aiogram.event - INFO - Update id=799745097 is handled. Duration 88 ms by bot id=8282864705
+2025-11-16 13:31:13,999 - aiogram.event - INFO - Update id=799745098 is handled. Duration 151 ms by bot id=8282864705
+2025-11-16 13:32:03,139 - aiogram.event - INFO - Update id=799745099 is handled. Duration 43596 ms by bot id=8282864705
+2025-11-16 13:32:31,289 - aiogram.event - INFO - Update id=799745100 is not handled. Duration 10 ms by bot id=8282864705
+2025-11-16 13:32:32,813 - aiogram.event - INFO - Update id=799745101 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 13:32:34,278 - aiogram.event - INFO - Update id=799745102 is handled. Duration 262 ms by bot id=8282864705
+2025-11-16 13:32:37,977 - aiogram.event - INFO - Update id=799745103 is handled. Duration 113 ms by bot id=8282864705
+2025-11-16 13:32:40,863 - aiogram.event - INFO - Update id=799745104 is handled. Duration 204 ms by bot id=8282864705
+2025-11-16 13:32:50,150 - aiogram.event - INFO - Update id=799745105 is handled. Duration 97 ms by bot id=8282864705
+2025-11-16 13:32:59,251 - aiogram.event - INFO - Update id=799745106 is handled. Duration 137 ms by bot id=8282864705
+2025-11-16 13:33:03,019 - aiogram.event - INFO - Update id=799745107 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 13:33:04,460 - aiogram.event - INFO - Update id=799745108 is not handled. Duration 5 ms by bot id=8282864705
+2025-11-16 13:33:06,868 - aiogram.event - INFO - Update id=799745109 is handled. Duration 79 ms by bot id=8282864705
+2025-11-16 13:33:07,996 - aiogram.event - INFO - Update id=799745110 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 13:35:45,631 - aiogram.event - INFO - Update id=799745111 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 13:58:58,004 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 13:58:58,004 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 13:58:58,046 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 13:59:01,630 - aiogram.event - INFO - Update id=799745174 is not handled. Duration 4 ms by bot id=8282864705
+2025-11-16 13:59:48,923 - aiogram.event - INFO - Update id=799745175 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 13:59:51,119 - aiogram.event - INFO - Update id=799745176 is handled. Duration 242 ms by bot id=8282864705
+2025-11-16 13:59:52,510 - aiogram.event - INFO - Update id=799745177 is handled. Duration 61 ms by bot id=8282864705
+2025-11-16 13:59:53,657 - aiogram.event - INFO - Update id=799745178 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 13:59:58,708 - aiogram.event - INFO - Update id=799745179 is handled. Duration 161 ms by bot id=8282864705
+2025-11-16 14:00:07,706 - aiogram.event - INFO - Update id=799745180 is handled. Duration 177 ms by bot id=8282864705
+2025-11-16 14:00:15,540 - aiogram.event - INFO - Update id=799745181 is handled. Duration 126 ms by bot id=8282864705
+2025-11-16 14:00:16,947 - aiogram.event - INFO - Update id=799745182 is handled. Duration 112 ms by bot id=8282864705
+2025-11-16 14:00:19,429 - aiogram.event - INFO - Update id=799745183 is handled. Duration 88 ms by bot id=8282864705
+2025-11-16 14:00:20,231 - aiogram.event - INFO - Update id=799745184 is handled. Duration 202 ms by bot id=8282864705
+2025-11-16 14:00:24,481 - aiogram.event - INFO - Update id=799745185 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 14:00:25,303 - aiogram.event - INFO - Update id=799745186 is handled. Duration 111 ms by bot id=8282864705
+2025-11-16 14:00:26,659 - aiogram.event - INFO - Update id=799745187 is handled. Duration 87 ms by bot id=8282864705
+2025-11-16 14:00:29,110 - aiogram.event - INFO - Update id=799745188 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 14:00:37,372 - aiogram.event - INFO - Update id=799745189 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 14:00:39,836 - aiogram.event - INFO - Update id=799745190 is handled. Duration 89 ms by bot id=8282864705
+2025-11-16 14:00:41,419 - aiogram.event - INFO - Update id=799745191 is handled. Duration 88 ms by bot id=8282864705
+2025-11-16 14:00:49,198 - aiogram.event - INFO - Update id=799745192 is handled. Duration 193 ms by bot id=8282864705
+2025-11-16 14:00:50,769 - aiogram.event - INFO - Update id=799745193 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 14:00:55,330 - aiogram.event - INFO - Update id=799745194 is handled. Duration 75 ms by bot id=8282864705
+2025-11-16 14:00:57,377 - aiogram.event - INFO - Update id=799745195 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 14:01:52,809 - aiogram.event - INFO - Update id=799745196 is handled. Duration 37150 ms by bot id=8282864705
+2025-11-16 14:10:13,647 - aiogram.event - INFO - Update id=799745197 is not handled. Duration 11 ms by bot id=8282864705
+2025-11-16 14:10:13,647 - aiogram.event - INFO - Update id=799745198 is not handled. Duration 11 ms by bot id=8282864705
+2025-11-16 14:12:16,522 - aiogram.event - INFO - Update id=799745199 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 14:12:28,417 - aiogram.event - INFO - Update id=799745200 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 14:18:57,987 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-16 14:18:57,989 - aiogram.dispatcher - INFO - Polling stopped for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 14:18:57,990 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-16 14:19:01,796 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 14:19:01,796 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 14:19:01,840 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 14:19:16,573 - aiogram.event - INFO - Update id=799745201 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 14:19:21,298 - aiogram.event - INFO - Update id=799745202 is handled. Duration 176 ms by bot id=8282864705
+2025-11-16 14:19:22,963 - aiogram.event - INFO - Update id=799745203 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 14:19:25,156 - aiogram.event - INFO - Update id=799745204 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 14:19:35,284 - aiogram.event - INFO - Update id=799745205 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 14:19:41,123 - aiogram.event - INFO - Update id=799745206 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 14:19:42,475 - aiogram.event - INFO - Update id=799745207 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 14:19:44,742 - aiogram.event - INFO - Update id=799745208 is handled. Duration 102 ms by bot id=8282864705
+2025-11-16 14:19:45,848 - aiogram.event - INFO - Update id=799745209 is handled. Duration 106 ms by bot id=8282864705
+2025-11-16 14:19:50,432 - aiogram.event - INFO - Update id=799745210 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 14:19:52,329 - aiogram.event - INFO - Update id=799745211 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 14:19:53,480 - aiogram.event - INFO - Update id=799745212 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 14:19:57,051 - aiogram.event - INFO - Update id=799745213 is handled. Duration 174 ms by bot id=8282864705
+2025-11-16 14:19:59,496 - aiogram.event - INFO - Update id=799745214 is handled. Duration 110 ms by bot id=8282864705
+2025-11-16 14:20:01,120 - aiogram.event - INFO - Update id=799745215 is handled. Duration 95 ms by bot id=8282864705
+2025-11-16 14:20:03,195 - aiogram.event - INFO - Update id=799745216 is handled. Duration 134 ms by bot id=8282864705
+2025-11-16 14:20:05,732 - aiogram.event - INFO - Update id=799745217 is handled. Duration 100 ms by bot id=8282864705
+2025-11-16 14:20:11,348 - aiogram.event - INFO - Update id=799745218 is handled. Duration 191 ms by bot id=8282864705
+2025-11-16 14:20:13,560 - aiogram.event - INFO - Update id=799745219 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 14:20:14,703 - aiogram.event - INFO - Update id=799745220 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 14:20:15,891 - aiogram.event - INFO - Update id=799745221 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 14:20:49,967 - aiogram.event - INFO - Update id=799745222 is handled. Duration 32655 ms by bot id=8282864705
+2025-11-16 14:20:59,250 - aiogram.event - INFO - Update id=799745223 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 14:21:03,408 - aiogram.event - INFO - Update id=799745224 is handled. Duration 75 ms by bot id=8282864705
+2025-11-16 14:21:14,699 - aiogram.event - INFO - Update id=799745225 is handled. Duration 152 ms by bot id=8282864705
+2025-11-16 14:21:17,125 - aiogram.event - INFO - Update id=799745226 is handled. Duration 143 ms by bot id=8282864705
+2025-11-16 14:21:19,839 - aiogram.event - INFO - Update id=799745227 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 14:21:25,795 - aiogram.event - INFO - Update id=799745228 is handled. Duration 85 ms by bot id=8282864705
+2025-11-16 14:22:05,038 - aiogram.event - INFO - Update id=799745229 is handled. Duration 33778 ms by bot id=8282864705
+2025-11-16 14:24:56,806 - aiogram.event - INFO - Update id=799745230 is handled. Duration 157 ms by bot id=8282864705
+2025-11-16 14:24:58,933 - aiogram.event - INFO - Update id=799745231 is handled. Duration 74 ms by bot id=8282864705
+2025-11-16 14:25:01,511 - aiogram.event - INFO - Update id=799745232 is handled. Duration 99 ms by bot id=8282864705
+2025-11-16 14:25:10,744 - aiogram.event - INFO - Update id=799745233 is handled. Duration 156 ms by bot id=8282864705
+2025-11-16 14:25:53,856 - aiogram.event - INFO - Update id=799745234 is handled. Duration 36185 ms by bot id=8282864705
+2025-11-16 14:26:15,625 - aiogram.event - INFO - Update id=799745235 is handled. Duration 172 ms by bot id=8282864705
+2025-11-16 14:26:19,741 - aiogram.event - INFO - Update id=799745236 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 14:26:21,025 - aiogram.event - INFO - Update id=799745237 is handled. Duration 110 ms by bot id=8282864705
+2025-11-16 14:26:21,997 - aiogram.event - INFO - Update id=799745238 is handled. Duration 115 ms by bot id=8282864705
+2025-11-16 14:26:22,379 - aiogram.event - INFO - Update id=799745239 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 14:26:22,865 - aiogram.event - INFO - Update id=799745240 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 14:26:24,826 - aiogram.event - INFO - Update id=799745241 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 14:27:06,393 - aiogram.event - INFO - Update id=799745242 is handled. Duration 34087 ms by bot id=8282864705
+2025-11-16 14:44:53,317 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 14:44:53,318 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 14:44:53,362 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 14:45:03,902 - aiogram.event - INFO - Update id=799745243 is handled. Duration 172 ms by bot id=8282864705
+2025-11-16 14:45:05,584 - aiogram.event - INFO - Update id=799745244 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 14:45:08,393 - aiogram.event - INFO - Update id=799745245 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 14:45:11,761 - aiogram.event - INFO - Update id=799745246 is handled. Duration 89 ms by bot id=8282864705
+2025-11-16 14:45:17,950 - aiogram.event - INFO - Update id=799745247 is handled. Duration 89 ms by bot id=8282864705
+2025-11-16 14:45:19,199 - aiogram.event - INFO - Update id=799745248 is handled. Duration 165 ms by bot id=8282864705
+2025-11-16 14:45:28,313 - aiogram.event - INFO - Update id=799745249 is handled. Duration 211 ms by bot id=8282864705
+2025-11-16 14:45:32,707 - aiogram.event - INFO - Update id=799745250 is handled. Duration 90 ms by bot id=8282864705
+2025-11-16 14:45:43,904 - aiogram.event - INFO - Update id=799745251 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 14:45:48,284 - aiogram.event - INFO - Update id=799745252 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 14:45:49,485 - aiogram.event - INFO - Update id=799745253 is handled. Duration 184 ms by bot id=8282864705
+2025-11-16 14:45:53,611 - aiogram.event - INFO - Update id=799745254 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 14:45:56,916 - aiogram.event - INFO - Update id=799745255 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 14:46:15,013 - aiogram.event - INFO - Update id=799745256 is handled. Duration 7786 ms by bot id=8282864705
+2025-11-16 14:47:06,440 - aiogram.event - INFO - Update id=799745257 is handled. Duration 211 ms by bot id=8282864705
+2025-11-16 14:48:28,241 - aiogram.event - INFO - Update id=799745258 is handled. Duration 35364 ms by bot id=8282864705
+2025-11-16 14:48:55,320 - aiogram.event - INFO - Update id=799745259 is handled. Duration 147 ms by bot id=8282864705
+2025-11-16 14:48:57,696 - aiogram.event - INFO - Update id=799745260 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 14:49:00,043 - aiogram.event - INFO - Update id=799745261 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 14:49:53,870 - aiogram.event - INFO - Update id=799745262 is handled. Duration 40380 ms by bot id=8282864705
+2025-11-16 14:50:28,056 - aiogram.event - INFO - Update id=799745263 is handled. Duration 152 ms by bot id=8282864705
+2025-11-16 14:50:31,244 - aiogram.event - INFO - Update id=799745264 is handled. Duration 89 ms by bot id=8282864705
+2025-11-16 14:50:33,063 - aiogram.event - INFO - Update id=799745265 is handled. Duration 138 ms by bot id=8282864705
+2025-11-16 15:06:42,314 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-16 15:06:42,317 - aiogram.dispatcher - INFO - Polling stopped for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:06:42,317 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-16 15:06:46,095 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 15:06:46,095 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 15:06:46,136 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:06:50,701 - aiogram.event - INFO - Update id=799745266 is handled. Duration 160 ms by bot id=8282864705
+2025-11-16 15:07:02,233 - aiogram.event - INFO - Update id=799745267 is handled. Duration 838 ms by bot id=8282864705
+2025-11-16 15:16:49,781 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 15:16:49,781 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 15:16:49,823 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:16:55,407 - aiogram.event - INFO - Update id=799745268 is not handled. Duration 3 ms by bot id=8282864705
+2025-11-16 15:16:58,972 - aiogram.event - INFO - Update id=799745269 is handled. Duration 179 ms by bot id=8282864705
+2025-11-16 15:17:00,512 - aiogram.event - INFO - Update id=799745270 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 15:17:01,710 - aiogram.event - INFO - Update id=799745271 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 15:17:03,184 - aiogram.event - INFO - Update id=799745272 is handled. Duration 64 ms by bot id=8282864705
+2025-11-16 15:17:05,970 - aiogram.event - INFO - Update id=799745273 is handled. Duration 245 ms by bot id=8282864705
+2025-11-16 15:17:43,413 - aiogram.event - INFO - Update id=799745274 is handled. Duration 30851 ms by bot id=8282864705
+2025-11-16 15:38:31,906 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 15:38:31,907 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 15:38:31,948 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:38:35,964 - aiogram.event - INFO - Update id=799745276 is not handled. Duration 3 ms by bot id=8282864705
+2025-11-16 15:38:40,414 - aiogram.event - INFO - Update id=799745277 is handled. Duration 171 ms by bot id=8282864705
+2025-11-16 15:38:43,471 - aiogram.event - INFO - Update id=799745278 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 15:38:44,903 - aiogram.event - INFO - Update id=799745279 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 15:38:46,450 - aiogram.event - INFO - Update id=799745280 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 15:38:49,342 - aiogram.event - INFO - Update id=799745281 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 15:39:31,736 - aiogram.event - INFO - Update id=799745282 is handled. Duration 31470 ms by bot id=8282864705
+2025-11-16 15:39:40,214 - aiogram.event - INFO - Update id=799745283 is handled. Duration 165 ms by bot id=8282864705
+2025-11-16 15:39:46,131 - aiogram.event - INFO - Update id=799745284 is handled. Duration 96 ms by bot id=8282864705
+2025-11-16 15:40:08,072 - aiogram.event - INFO - Update id=799745285 is handled. Duration 10806 ms by bot id=8282864705
+2025-11-16 15:42:09,071 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 15:42:09,072 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 15:42:09,113 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:42:18,883 - aiogram.event - INFO - Update id=799745286 is not handled. Duration 5 ms by bot id=8282864705
+2025-11-16 15:42:27,472 - aiogram.event - INFO - Update id=799745287 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 15:42:32,256 - aiogram.event - INFO - Update id=799745288 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 15:42:35,703 - aiogram.event - INFO - Update id=799745289 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 15:42:38,016 - aiogram.event - INFO - Update id=799745290 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 15:43:51,913 - aiogram.event - INFO - Update id=799745291 is handled. Duration 180 ms by bot id=8282864705
+2025-11-16 15:44:06,430 - aiogram.event - INFO - Update id=799745292 is handled. Duration 7101 ms by bot id=8282864705
+2025-11-16 15:44:15,342 - aiogram.event - INFO - Update id=799745293 is handled. Duration 133 ms by bot id=8282864705
+2025-11-16 15:44:35,309 - aiogram.event - INFO - Update id=799745294 is handled. Duration 13110 ms by bot id=8282864705
+2025-11-16 15:44:45,040 - aiogram.event - INFO - Update id=799745295 is handled. Duration 84 ms by bot id=8282864705
+2025-11-16 15:45:10,009 - aiogram.event - INFO - Update id=799745296 is handled. Duration 19012 ms by bot id=8282864705
+2025-11-16 15:46:34,060 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 15:46:34,060 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 15:46:34,102 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:46:36,615 - aiogram.event - INFO - Update id=799745297 is handled. Duration 166 ms by bot id=8282864705
+2025-11-16 15:46:59,981 - aiogram.event - INFO - Update id=799745298 is handled. Duration 5845 ms by bot id=8282864705
+2025-11-16 15:47:07,380 - aiogram.event - INFO - Update id=799745299 is handled. Duration 74 ms by bot id=8282864705
+2025-11-16 15:47:16,056 - aiogram.event - INFO - Update id=799745300 is handled. Duration 4758 ms by bot id=8282864705
+2025-11-16 15:48:20,055 - aiogram.event - INFO - Update id=799745301 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 15:48:29,688 - aiogram.event - INFO - Update id=799745302 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 15:48:42,706 - aiogram.event - INFO - Update id=799745303 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 15:49:19,104 - aiogram.event - INFO - Update id=799745304 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 15:49:24,263 - aiogram.event - INFO - Update id=799745305 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 15:49:28,560 - aiogram.event - INFO - Update id=799745306 is not handled. Duration 10 ms by bot id=8282864705
+2025-11-16 15:49:36,194 - aiogram.event - INFO - Update id=799745307 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 15:49:50,148 - aiogram.event - INFO - Update id=799745308 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 15:49:55,672 - aiogram.event - INFO - Update id=799745309 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 15:50:12,446 - aiogram.event - INFO - Update id=799745310 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 15:50:15,954 - aiogram.event - INFO - Update id=799745311 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 15:51:01,259 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 15:51:01,260 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 15:51:01,302 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:51:12,811 - aiogram.event - INFO - Update id=799745312 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 15:51:15,023 - aiogram.event - INFO - Update id=799745313 is handled. Duration 266 ms by bot id=8282864705
+2025-11-16 15:51:29,459 - aiogram.event - INFO - Update id=799745314 is handled. Duration 7726 ms by bot id=8282864705
+2025-11-16 15:52:18,316 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 15:52:18,316 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 15:52:18,361 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 15:52:28,638 - aiogram.event - INFO - Update id=799745315 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 15:52:30,659 - aiogram.event - INFO - Update id=799745316 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 15:52:34,682 - aiogram.event - INFO - Update id=799745317 is handled. Duration 282 ms by bot id=8282864705
+2025-11-16 15:52:36,259 - aiogram.event - INFO - Update id=799745318 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 15:52:36,482 - aiogram.event - INFO - Update id=799745319 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 15:52:37,319 - aiogram.event - INFO - Update id=799745320 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 15:52:38,780 - aiogram.event - INFO - Update id=799745321 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 15:52:40,678 - aiogram.event - INFO - Update id=799745322 is handled. Duration 111 ms by bot id=8282864705
+2025-11-16 15:53:16,065 - aiogram.event - INFO - Update id=799745324 is not handled. Duration 4 ms by bot id=8282864705
+2025-11-16 15:53:18,071 - aiogram.event - INFO - Update id=799745323 is handled. Duration 31345 ms by bot id=8282864705
+2025-11-16 15:56:17,357 - aiogram.event - INFO - Update id=799745325 is handled. Duration 155 ms by bot id=8282864705
+2025-11-16 15:56:28,154 - aiogram.event - INFO - Update id=799745326 is handled. Duration 77 ms by bot id=8282864705
+2025-11-16 15:56:37,259 - aiogram.event - INFO - Update id=799745327 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 15:56:39,567 - aiogram.event - INFO - Update id=799745328 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 15:56:46,583 - aiogram.event - INFO - Update id=799745329 is handled. Duration 73 ms by bot id=8282864705
+2025-11-16 15:56:53,685 - aiogram.event - INFO - Update id=799745330 is handled. Duration 110 ms by bot id=8282864705
+2025-11-16 15:57:03,900 - aiogram.event - INFO - Update id=799745331 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 15:57:35,480 - aiogram.event - INFO - Update id=799745332 is handled. Duration 26033 ms by bot id=8282864705
+2025-11-16 15:57:42,292 - aiogram.event - INFO - Update id=799745333 is handled. Duration 75 ms by bot id=8282864705
+2025-11-16 16:05:20,109 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 16:05:20,110 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 16:05:20,154 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 16:05:44,805 - aiogram.event - INFO - Update id=799745334 is handled. Duration 176 ms by bot id=8282864705
+2025-11-16 16:05:48,493 - aiogram.event - INFO - Update id=799745335 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 16:05:55,803 - aiogram.event - INFO - Update id=799745336 is handled. Duration 83 ms by bot id=8282864705
+2025-11-16 16:06:01,899 - aiogram.event - INFO - Update id=799745337 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 16:06:03,665 - aiogram.event - INFO - Update id=799745338 is handled. Duration 104 ms by bot id=8282864705
+2025-11-16 16:06:49,015 - app.handlers.post_creation - INFO - ✅ Пост с улучшенной идеей создан для пользователя 808403694
+2025-11-16 16:06:49,017 - aiogram.event - INFO - Update id=799745339 is handled. Duration 29257 ms by bot id=8282864705
+2025-11-16 16:07:47,587 - aiogram.event - INFO - Update id=799745340 is handled. Duration 172 ms by bot id=8282864705
+2025-11-16 16:07:53,298 - app.services.favorites - INFO - Файл избранного не существует, создаем новый
+2025-11-16 16:07:53,298 - app.services.favorites - INFO - Загружено 0 избранных постов для пользователя 808403694
+2025-11-16 16:07:53,426 - aiogram.event - INFO - Update id=799745341 is handled. Duration 137 ms by bot id=8282864705
+2025-11-16 16:07:55,102 - aiogram.event - INFO - Update id=799745342 is handled. Duration 131 ms by bot id=8282864705
+2025-11-16 16:07:56,791 - aiogram.event - INFO - Update id=799745343 is handled. Duration 160 ms by bot id=8282864705
+2025-11-16 16:08:00,190 - aiogram.event - INFO - Update id=799745344 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 16:08:10,734 - aiogram.event - INFO - Update id=799745345 is handled. Duration 76 ms by bot id=8282864705
+2025-11-16 16:08:39,013 - app.handlers.image_gen - INFO - ✅ Изображение сгенерировано и данные сохранены для пользователя 808403694
+2025-11-16 16:08:39,152 - aiogram.event - INFO - Update id=799745346 is handled. Duration 25317 ms by bot id=8282864705
+2025-11-16 16:09:13,434 - app.handlers.post_creation - INFO - Попытка сохранения поста в избранное для пользователя 808403694
+2025-11-16 16:09:13,434 - app.handlers.post_creation - INFO - Данные поста: {'type': 'image', 'title': 'Картинка: собачки прыгают по бутербродам...', 'text': None, 'image_path': 'data/images/dreamlike_20251116_160838.png', 'created_at': '2025-11-16T16:08:39.013169', 'prompt': 'собачки прыгают по бутербродам, реалистичный, фотореализм, высокое качество, детализация', 'style': '🌿 РЕАЛИСТИЧНЫЙ'}
+2025-11-16 16:09:13,435 - app.services.favorites - INFO - Сохранение поста для пользователя 808403694: Картинка: собачки прыгают по бутербродам...
+2025-11-16 16:09:13,435 - app.services.favorites - INFO - Файл избранного не существует, создаем новый
+2025-11-16 16:09:13,436 - app.services.favorites - INFO - ✅ Файл избранного успешно сохранен
+2025-11-16 16:09:13,436 - app.services.favorites - INFO - ✅ Пост успешно сохранен в избранное для пользователя 808403694
+2025-11-16 16:09:13,584 - app.handlers.post_creation - INFO - ✅ Пост успешно сохранен в избранное для пользователя 808403694
+2025-11-16 16:09:13,584 - aiogram.event - INFO - Update id=799745347 is handled. Duration 152 ms by bot id=8282864705
+2025-11-16 16:09:17,083 - aiogram.event - INFO - Update id=799745348 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 16:09:56,327 - app.handlers.image_gen - INFO - ✅ Изображение сгенерировано и данные сохранены для пользователя 808403694
+2025-11-16 16:09:56,378 - aiogram.event - INFO - Update id=799745349 is handled. Duration 25742 ms by bot id=8282864705
+2025-11-16 16:13:54,001 - aiogram.event - INFO - Update id=799745350 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 16:16:16,532 - aiogram.event - INFO - Update id=799745351 is handled. Duration 160 ms by bot id=8282864705
+2025-11-16 16:16:19,081 - aiogram.event - INFO - Update id=799745352 is handled. Duration 74 ms by bot id=8282864705
+2025-11-16 16:18:07,748 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 16:18:07,749 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 16:18:07,790 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 16:18:15,061 - aiogram.event - INFO - Update id=799745353 is not handled. Duration 5 ms by bot id=8282864705
+2025-11-16 16:18:18,603 - aiogram.event - INFO - Update id=799745354 is handled. Duration 185 ms by bot id=8282864705
+2025-11-16 16:18:25,155 - aiogram.event - INFO - Update id=799745355 is handled. Duration 111 ms by bot id=8282864705
+2025-11-16 16:18:27,060 - aiogram.event - INFO - Update id=799745356 is handled. Duration 102 ms by bot id=8282864705
+2025-11-16 16:18:36,343 - aiogram.event - INFO - Update id=799745357 is handled. Duration 108 ms by bot id=8282864705
+2025-11-16 16:18:37,939 - aiogram.event - INFO - Update id=799745358 is handled. Duration 65 ms by bot id=8282864705
+2025-11-16 16:18:38,919 - aiogram.event - INFO - Update id=799745359 is handled. Duration 84 ms by bot id=8282864705
+2025-11-16 16:18:40,066 - aiogram.event - INFO - Update id=799745360 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 16:18:41,111 - aiogram.event - INFO - Update id=799745361 is handled. Duration 164 ms by bot id=8282864705
+2025-11-16 16:18:42,250 - aiogram.event - INFO - Update id=799745362 is handled. Duration 177 ms by bot id=8282864705
+2025-11-16 16:18:53,920 - aiogram.event - INFO - Update id=799745363 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 16:18:56,193 - aiogram.event - INFO - Update id=799745364 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 16:19:03,101 - aiogram.event - INFO - Update id=799745365 is handled. Duration 173 ms by bot id=8282864705
+2025-11-16 16:19:32,912 - app.handlers.image_gen - INFO - ✅ Изображение сгенерировано и сохранено для пользователя 808403694
+2025-11-16 16:19:32,978 - aiogram.event - INFO - Update id=799745366 is handled. Duration 27339 ms by bot id=8282864705
+2025-11-16 16:19:42,852 - app.handlers.image_gen - INFO - Попытка сохранения картинки в избранное для пользователя 808403694
+2025-11-16 16:19:42,853 - app.handlers.image_gen - INFO - Данные изображения: {'type': 'image', 'title': 'Картинка: черепашки...', 'text': None, 'image_path': 'data/images/dreamlike_20251116_161931.png', 'created_at': '2025-11-16T16:19:32.912786', 'prompt': 'черепашки, эмоциональный, глубокая атмосфера, чувства, настроение', 'style': '❤️ ЭМОЦИОНАЛЬНЫЙ'}
+2025-11-16 16:19:42,853 - app.services.favorites - INFO - Сохранение поста для пользователя 808403694: Картинка: черепашки...
+2025-11-16 16:19:42,854 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:19:42,855 - app.services.favorites - INFO - ✅ Файл избранного успешно сохранен
+2025-11-16 16:19:42,855 - app.services.favorites - INFO - ✅ Пост успешно сохранен в избранное для пользователя 808403694
+2025-11-16 16:19:42,922 - app.handlers.image_gen - INFO - ✅ Картинка успешно сохранена в избранное для пользователя 808403694
+2025-11-16 16:19:42,923 - aiogram.event - INFO - Update id=799745367 is handled. Duration 77 ms by bot id=8282864705
+2025-11-16 16:19:47,821 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:19:47,821 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:19:47,971 - aiogram.event - INFO - Update id=799745368 is handled. Duration 157 ms by bot id=8282864705
+2025-11-16 16:19:56,010 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:19:56,011 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:19:56,196 - aiogram.event - INFO - Update id=799745369 is handled. Duration 193 ms by bot id=8282864705
+2025-11-16 16:20:02,173 - aiogram.event - INFO - Update id=799745370 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:20:04,616 - aiogram.event - INFO - Update id=799745371 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:20:07,688 - aiogram.event - INFO - Update id=799745372 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:20:09,838 - aiogram.event - INFO - Update id=799745373 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:20:11,991 - aiogram.event - INFO - Update id=799745374 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:20:13,014 - aiogram.event - INFO - Update id=799745375 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:20:13,322 - aiogram.event - INFO - Update id=799745376 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:20:18,534 - aiogram.event - INFO - Update id=799745377 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:23:27,324 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 16:23:27,325 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 16:23:27,368 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 16:23:56,847 - aiogram.event - INFO - Update id=799745378 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 16:24:02,754 - aiogram.event - INFO - Update id=799745379 is handled. Duration 163 ms by bot id=8282864705
+2025-11-16 16:24:04,191 - aiogram.event - INFO - Update id=799745380 is handled. Duration 106 ms by bot id=8282864705
+2025-11-16 16:24:06,113 - aiogram.event - INFO - Update id=799745381 is handled. Duration 155 ms by bot id=8282864705
+2025-11-16 16:24:07,489 - aiogram.event - INFO - Update id=799745382 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 16:24:08,770 - aiogram.event - INFO - Update id=799745383 is handled. Duration 99 ms by bot id=8282864705
+2025-11-16 16:24:23,357 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:24:23,357 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:24:23,420 - aiogram.event - INFO - Update id=799745384 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 16:24:25,413 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:24:25,414 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:24:25,710 - aiogram.event - INFO - Update id=799745385 is handled. Duration 305 ms by bot id=8282864705
+2025-11-16 16:24:32,352 - aiogram.event - INFO - Update id=799745386 is handled. Duration 99 ms by bot id=8282864705
+2025-11-16 16:24:34,549 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:24:34,549 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:24:34,653 - aiogram.event - INFO - Update id=799745387 is handled. Duration 112 ms by bot id=8282864705
+2025-11-16 16:24:36,289 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:24:36,289 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:24:36,473 - aiogram.event - INFO - Update id=799745388 is handled. Duration 191 ms by bot id=8282864705
+2025-11-16 16:24:38,620 - aiogram.event - INFO - Update id=799745389 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:24:41,477 - aiogram.event - INFO - Update id=799745390 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:24:43,256 - aiogram.event - INFO - Update id=799745391 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:24:44,669 - aiogram.event - INFO - Update id=799745392 is handled. Duration 166 ms by bot id=8282864705
+2025-11-16 16:25:00,201 - aiogram.event - INFO - Update id=799745393 is handled. Duration 160 ms by bot id=8282864705
+2025-11-16 16:25:03,459 - aiogram.event - INFO - Update id=799745394 is handled. Duration 166 ms by bot id=8282864705
+2025-11-16 16:25:05,525 - aiogram.event - INFO - Update id=799745395 is handled. Duration 168 ms by bot id=8282864705
+2025-11-16 16:37:32,784 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-16 16:37:32,785 - aiogram.dispatcher - INFO - Polling stopped for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 16:37:32,786 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-16 16:37:35,844 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 16:37:35,845 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 16:37:35,886 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 16:37:55,622 - aiogram.event - INFO - Update id=799745396 is handled. Duration 219 ms by bot id=8282864705
+2025-11-16 16:38:01,256 - aiogram.event - INFO - Update id=799745397 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:38:05,278 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:38:05,278 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:38:05,395 - aiogram.event - INFO - Update id=799745398 is handled. Duration 124 ms by bot id=8282864705
+2025-11-16 16:38:06,667 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 16:38:06,668 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 16:38:07,111 - aiogram.event - INFO - Update id=799745399 is handled. Duration 449 ms by bot id=8282864705
+2025-11-16 16:38:08,400 - aiogram.event - INFO - Update id=799745400 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:38:09,590 - aiogram.event - INFO - Update id=799745401 is handled. Duration 95 ms by bot id=8282864705
+2025-11-16 16:38:12,927 - aiogram.event - INFO - Update id=799745402 is handled. Duration 77 ms by bot id=8282864705
+2025-11-16 16:38:28,889 - aiogram.event - INFO - Update id=799745403 is handled. Duration 6966 ms by bot id=8282864705
+2025-11-16 16:39:05,731 - aiogram.event - INFO - Update id=799745404 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:39:14,418 - aiogram.event - INFO - Update id=799745405 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:39:17,248 - aiogram.event - INFO - Update id=799745406 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:39:17,422 - aiogram.event - INFO - Update id=799745407 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 16:39:17,635 - aiogram.event - INFO - Update id=799745408 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 16:39:24,976 - aiogram.event - INFO - Update id=799745409 is handled. Duration 297 ms by bot id=8282864705
+2025-11-16 16:39:26,804 - aiogram.event - INFO - Update id=799745410 is handled. Duration 79 ms by bot id=8282864705
+2025-11-16 16:42:48,231 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 16:42:48,231 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 16:42:48,276 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 16:42:54,252 - aiogram.event - INFO - Update id=799745411 is handled. Duration 170 ms by bot id=8282864705
+2025-11-16 16:42:55,974 - aiogram.event - INFO - Update id=799745412 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 16:43:10,980 - aiogram.event - INFO - Update id=799745413 is handled. Duration 174 ms by bot id=8282864705
+2025-11-16 16:43:45,580 - app.handlers.post_creation - ERROR - ❌ Ошибка генерации истории: Telegram server says - Bad Request: message caption is too long
+2025-11-16 16:43:45,732 - aiogram.event - INFO - Update id=799745414 is handled. Duration 31884 ms by bot id=8282864705
+2025-11-16 16:43:59,538 - aiogram.event - INFO - Update id=799745415 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 16:44:01,169 - aiogram.event - INFO - Update id=799745416 is handled. Duration 73 ms by bot id=8282864705
+2025-11-16 16:44:13,543 - aiogram.event - INFO - Update id=799745417 is handled. Duration 64 ms by bot id=8282864705
+2025-11-16 16:44:45,538 - app.handlers.post_creation - ERROR - ❌ Ошибка генерации истории: Telegram server says - Bad Request: message caption is too long
+2025-11-16 16:44:45,654 - aiogram.event - INFO - Update id=799745418 is handled. Duration 29257 ms by bot id=8282864705
+2025-11-16 16:46:53,189 - aiogram.event - INFO - Update id=799745419 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:47:03,299 - aiogram.event - INFO - Update id=799745420 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:50:10,517 - aiogram.event - INFO - Update id=799745421 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:50:39,498 - aiogram.event - INFO - Update id=799745422 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 16:50:48,011 - aiogram.event - INFO - Update id=799745423 is not handled. Duration 8 ms by bot id=8282864705
+2025-11-16 16:52:14,693 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 16:52:14,694 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 16:52:14,739 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 16:52:26,209 - aiogram.event - INFO - Update id=799745424 is handled. Duration 161 ms by bot id=8282864705
+2025-11-16 16:52:29,591 - aiogram.event - INFO - Update id=799745425 is handled. Duration 85 ms by bot id=8282864705
+2025-11-16 16:52:43,401 - aiogram.event - INFO - Update id=799745426 is handled. Duration 150 ms by bot id=8282864705
+2025-11-16 16:53:15,545 - app.handlers.post_creation - INFO - ✅ История создана и сохранена для пользователя 808403694
+2025-11-16 16:53:15,547 - aiogram.event - INFO - Update id=799745427 is handled. Duration 30163 ms by bot id=8282864705
+2025-11-16 16:55:02,536 - aiogram.event - INFO - Update id=799745428 is handled. Duration 232 ms by bot id=8282864705
+2025-11-16 16:55:04,609 - aiogram.event - INFO - Update id=799745429 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 16:55:10,147 - aiogram.event - INFO - Update id=799745430 is handled. Duration 75 ms by bot id=8282864705
+2025-11-16 16:55:11,811 - aiogram.event - INFO - Update id=799745431 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 16:55:13,440 - aiogram.event - INFO - Update id=799745432 is handled. Duration 89 ms by bot id=8282864705
+2025-11-16 16:55:20,805 - aiogram.event - INFO - Update id=799745433 is handled. Duration 101 ms by bot id=8282864705
+2025-11-16 16:55:22,957 - aiogram.event - INFO - Update id=799745434 is handled. Duration 205 ms by bot id=8282864705
+2025-11-16 16:55:25,773 - aiogram.event - INFO - Update id=799745435 is handled. Duration 79 ms by bot id=8282864705
+2025-11-16 16:55:26,350 - aiogram.event - INFO - Update id=799745436 is handled. Duration 90 ms by bot id=8282864705
+2025-11-16 16:55:26,901 - aiogram.event - INFO - Update id=799745437 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 16:55:27,696 - aiogram.event - INFO - Update id=799745438 is handled. Duration 79 ms by bot id=8282864705
+2025-11-16 16:55:28,669 - aiogram.event - INFO - Update id=799745439 is handled. Duration 153 ms by bot id=8282864705
+2025-11-16 16:55:30,177 - aiogram.event - INFO - Update id=799745440 is handled. Duration 106 ms by bot id=8282864705
+2025-11-16 16:56:01,912 - aiogram.event - INFO - Update id=799745441 is handled. Duration 30204 ms by bot id=8282864705
+2025-11-16 16:56:39,429 - aiogram.event - INFO - Update id=799745442 is not handled. Duration 9 ms by bot id=8282864705
+2025-11-16 16:56:44,664 - aiogram.event - INFO - Update id=799745443 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 16:56:45,540 - aiogram.event - INFO - Update id=799745444 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 16:56:47,293 - aiogram.event - INFO - Update id=799745445 is handled. Duration 148 ms by bot id=8282864705
+2025-11-16 16:56:50,234 - aiogram.event - INFO - Update id=799745446 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 16:56:52,841 - aiogram.event - INFO - Update id=799745447 is handled. Duration 111 ms by bot id=8282864705
+2025-11-16 17:02:15,329 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 17:02:15,330 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 17:02:15,371 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 17:02:18,934 - aiogram.event - INFO - Update id=799745448 is handled. Duration 174 ms by bot id=8282864705
+2025-11-16 17:02:24,191 - aiogram.event - INFO - Update id=799745449 is handled. Duration 143 ms by bot id=8282864705
+2025-11-16 17:02:32,254 - aiogram.event - INFO - Update id=799745450 is handled. Duration 90 ms by bot id=8282864705
+2025-11-16 17:02:33,473 - aiogram.event - INFO - Update id=799745451 is handled. Duration 162 ms by bot id=8282864705
+2025-11-16 17:02:42,517 - aiogram.event - INFO - Update id=799745452 is handled. Duration 204 ms by bot id=8282864705
+2025-11-16 17:02:45,233 - aiogram.event - INFO - Update id=799745453 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 17:03:06,696 - aiogram.event - INFO - Update id=799745454 is handled. Duration 205 ms by bot id=8282864705
+2025-11-16 17:03:38,597 - app.handlers.post_creation - INFO - ✅ История создана и сохранена для пользователя 808403694
+2025-11-16 17:03:38,599 - aiogram.event - INFO - Update id=799745455 is handled. Duration 29065 ms by bot id=8282864705
+2025-11-16 17:04:00,059 - aiogram.event - INFO - Update id=799745456 is handled. Duration 233 ms by bot id=8282864705
+2025-11-16 17:04:01,645 - aiogram.event - INFO - Update id=799745457 is handled. Duration 135 ms by bot id=8282864705
+2025-11-16 17:04:05,373 - aiogram.event - INFO - Update id=799745458 is handled. Duration 207 ms by bot id=8282864705
+2025-11-16 17:04:14,444 - aiogram.event - INFO - Update id=799745459 is handled. Duration 92 ms by bot id=8282864705
+2025-11-16 17:04:16,438 - aiogram.event - INFO - Update id=799745460 is handled. Duration 174 ms by bot id=8282864705
+2025-11-16 17:04:18,972 - aiogram.event - INFO - Update id=799745461 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 17:04:25,568 - aiogram.event - INFO - Update id=799745462 is handled. Duration 103 ms by bot id=8282864705
+2025-11-16 17:04:29,980 - aiogram.event - INFO - Update id=799745463 is handled. Duration 87 ms by bot id=8282864705
+2025-11-16 17:04:31,722 - aiogram.event - INFO - Update id=799745464 is handled. Duration 156 ms by bot id=8282864705
+2025-11-16 17:04:32,382 - aiogram.event - INFO - Update id=799745465 is handled. Duration 133 ms by bot id=8282864705
+2025-11-16 17:05:31,914 - aiogram.event - INFO - Update id=799745466 is handled. Duration 58732 ms by bot id=8282864705
+2025-11-16 17:05:36,905 - app.handlers.post_creation - INFO - Глобальный обработчик сохранения для пользователя 808403694
+2025-11-16 17:05:36,905 - app.handlers.post_creation - INFO - Найден пост для сохранения: История: мы участвуем в хакатоне от Рос...
+2025-11-16 17:05:36,905 - app.handlers.post_creation - INFO - Попытка сохранения поста в избранное для пользователя 808403694
+2025-11-16 17:05:36,905 - app.handlers.post_creation - INFO - Данные поста: {'type': 'story', 'title': 'История: мы участвуем в хакатоне от Рос...', 'text': '✨ <b>История</b>\n\n📝 <b>Сгенерированный текст</b>\n\nМы боролись, но не сдались! 🌟 На хакатоне от РосАТОМ наша команда превзошла все ожидания, создав уникальный проект, который заинтриговал жюри. 🚀 С каждым днём мы укрепляли связь между технологиями и людьми, и теперь наш путь вперёд стал яснее, чем свет в тёмной комнате. #РосАТОМ #Инновации #СилаВместе 🌟🚀\n\n\n💡 <i>Для персонализации контента расскажите о вашей НКО в настройках</i>\n🤖 <i>Сгенерировано с помощью AI</i>\n\n💡 <i>На основе ключевых слов: "мы участвуем в хакатоне от РосАТОМ"</i>', 'image_path': 'data/images/dreamlike_20251116_170337.png', 'created_at': '2025-11-16T17:03:38.597914', 'keywords': 'мы участвуем в хакатоне от РосАТОМ', 'style': 'вдохновляющий'}
+2025-11-16 17:05:36,905 - app.services.favorites - INFO - Сохранение поста для пользователя 808403694: История: мы участвуем в хакатоне от Рос...
+2025-11-16 17:05:36,906 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:05:36,906 - app.services.favorites - INFO - ✅ Файл избранного успешно сохранен
+2025-11-16 17:05:36,906 - app.services.favorites - INFO - ✅ Пост успешно сохранен в избранное для пользователя 808403694
+2025-11-16 17:05:36,978 - app.handlers.post_creation - INFO - ✅ Пост успешно сохранен в избранное для пользователя 808403694
+2025-11-16 17:05:36,979 - aiogram.event - INFO - Update id=799745467 is handled. Duration 75 ms by bot id=8282864705
+2025-11-16 17:05:39,133 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:05:39,133 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:05:39,208 - aiogram.event - INFO - Update id=799745468 is handled. Duration 82 ms by bot id=8282864705
+2025-11-16 17:05:42,737 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:05:42,737 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:05:42,933 - aiogram.event - INFO - Update id=799745469 is handled. Duration 208 ms by bot id=8282864705
+2025-11-16 17:05:45,782 - aiogram.event - INFO - Update id=799745470 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 17:05:49,303 - aiogram.event - INFO - Update id=799745471 is handled. Duration 203 ms by bot id=8282864705
+2025-11-16 17:05:53,574 - aiogram.event - INFO - Update id=799745472 is handled. Duration 91 ms by bot id=8282864705
+2025-11-16 17:05:57,498 - aiogram.event - INFO - Update id=799745473 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 17:06:29,066 - app.handlers.post_creation - INFO - ✅ История создана и сохранена для пользователя 808403694
+2025-11-16 17:06:29,067 - aiogram.event - INFO - Update id=799745474 is handled. Duration 30204 ms by bot id=8282864705
+2025-11-16 17:08:05,085 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 17:08:05,086 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 17:08:05,131 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 17:08:12,161 - aiogram.event - INFO - Update id=799745475 is handled. Duration 181 ms by bot id=8282864705
+2025-11-16 17:08:14,645 - aiogram.event - INFO - Update id=799745476 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 17:08:18,698 - aiogram.event - INFO - Update id=799745477 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 17:08:27,427 - aiogram.event - INFO - Update id=799745478 is handled. Duration 138 ms by bot id=8282864705
+2025-11-16 17:09:10,060 - app.handlers.post_creation - INFO - ✅ История создана и сохранена для пользователя 808403694
+2025-11-16 17:09:10,061 - aiogram.event - INFO - Update id=799745479 is handled. Duration 37590 ms by bot id=8282864705
+2025-11-16 17:09:41,309 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 17:09:41,310 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 17:09:41,354 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 17:10:17,139 - aiogram.event - INFO - Update id=799745480 is handled. Duration 182 ms by bot id=8282864705
+2025-11-16 17:10:18,529 - aiogram.event - INFO - Update id=799745481 is handled. Duration 129 ms by bot id=8282864705
+2025-11-16 17:10:19,695 - aiogram.event - INFO - Update id=799745482 is handled. Duration 122 ms by bot id=8282864705
+2025-11-16 17:10:58,907 - app.handlers.post_creation - INFO - ✅ Пост с улучшенной идеей создан и сохранен для пользователя 808403694
+2025-11-16 17:10:58,909 - aiogram.event - INFO - Update id=799745483 is handled. Duration 30291 ms by bot id=8282864705
+2025-11-16 17:11:07,193 - aiogram.event - INFO - Update id=799745484 is handled. Duration 83 ms by bot id=8282864705
+2025-11-16 17:11:11,616 - aiogram.event - INFO - Update id=799745485 is handled. Duration 113 ms by bot id=8282864705
+2025-11-16 17:11:17,700 - aiogram.event - INFO - Update id=799745486 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 17:11:20,916 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:11:20,916 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:11:20,984 - aiogram.event - INFO - Update id=799745487 is handled. Duration 78 ms by bot id=8282864705
+2025-11-16 17:11:22,574 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:11:22,574 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:11:22,795 - aiogram.event - INFO - Update id=799745488 is handled. Duration 227 ms by bot id=8282864705
+2025-11-16 17:11:27,984 - aiogram.event - INFO - Update id=799745489 is handled. Duration 113 ms by bot id=8282864705
+2025-11-16 17:11:36,908 - aiogram.event - INFO - Update id=799745490 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 17:11:50,867 - aiogram.event - INFO - Update id=799745491 is handled. Duration 87 ms by bot id=8282864705
+2025-11-16 17:12:09,515 - aiogram.event - INFO - Update id=799745492 is handled. Duration 246 ms by bot id=8282864705
+2025-11-16 17:12:18,490 - aiogram.event - INFO - Update id=799745493 is handled. Duration 741 ms by bot id=8282864705
+2025-11-16 17:12:42,239 - aiogram.event - INFO - Update id=799745494 is handled. Duration 150 ms by bot id=8282864705
+2025-11-16 17:12:51,390 - aiogram.event - INFO - Update id=799745495 is handled. Duration 63 ms by bot id=8282864705
+2025-11-16 17:12:52,536 - aiogram.event - INFO - Update id=799745496 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 17:12:57,564 - aiogram.event - INFO - Update id=799745497 is handled. Duration 71 ms by bot id=8282864705
+2025-11-16 17:13:03,365 - aiogram.event - INFO - Update id=799745498 is handled. Duration 72 ms by bot id=8282864705
+2025-11-16 17:13:09,617 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:13:09,617 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:13:09,687 - aiogram.event - INFO - Update id=799745499 is handled. Duration 76 ms by bot id=8282864705
+2025-11-16 17:13:12,093 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:13:12,093 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:13:12,389 - aiogram.event - INFO - Update id=799745500 is handled. Duration 308 ms by bot id=8282864705
+2025-11-16 17:13:15,130 - aiogram.event - INFO - Update id=799745501 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 17:13:32,808 - aiogram.event - INFO - Update id=799745502 is handled. Duration 146 ms by bot id=8282864705
+2025-11-16 17:13:36,859 - aiogram.event - INFO - Update id=799745503 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 17:13:38,902 - aiogram.event - INFO - Update id=799745504 is not handled. Duration 5 ms by bot id=8282864705
+2025-11-16 17:13:40,095 - aiogram.event - INFO - Update id=799745505 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 17:15:43,365 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 17:15:43,365 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 17:15:43,410 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 17:15:46,320 - aiogram.event - INFO - Update id=799745506 is not handled. Duration 6 ms by bot id=8282864705
+2025-11-16 17:15:47,190 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:15:47,190 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:15:47,480 - aiogram.event - INFO - Update id=799745507 is handled. Duration 296 ms by bot id=8282864705
+2025-11-16 17:15:49,008 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:15:49,009 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:15:49,372 - aiogram.event - INFO - Update id=799745508 is handled. Duration 372 ms by bot id=8282864705
+2025-11-16 17:15:52,708 - aiogram.event - INFO - Update id=799745509 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 17:15:54,108 - aiogram.event - INFO - Update id=799745510 is handled. Duration 62 ms by bot id=8282864705
+2025-11-16 17:15:55,550 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:15:55,551 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:15:55,618 - aiogram.event - INFO - Update id=799745511 is handled. Duration 74 ms by bot id=8282864705
+2025-11-16 17:15:58,468 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:15:58,469 - app.services.favorites - INFO - Загружено 3 избранных постов для пользователя 808403694
+2025-11-16 17:15:58,659 - aiogram.event - INFO - Update id=799745512 is handled. Duration 202 ms by bot id=8282864705
+2025-11-16 17:15:59,728 - app.handlers.favorites - INFO - Глобальный обработчик удаления для пользователя 808403694, post_id: c0895651
+2025-11-16 17:15:59,730 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:15:59,731 - app.services.favorites - INFO - ✅ Файл избранного успешно сохранен
+2025-11-16 17:15:59,731 - app.services.favorites - INFO - ✅ Пост c0895651 удален из избранного пользователя 808403694
+2025-11-16 17:15:59,826 - app.handlers.favorites - INFO - ✅ Пост c0895651 удален из избранного пользователя 808403694
+2025-11-16 17:15:59,826 - aiogram.event - INFO - Update id=799745513 is handled. Duration 105 ms by bot id=8282864705
+2025-11-16 17:16:01,617 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:16:01,617 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 17:16:01,701 - aiogram.event - INFO - Update id=799745514 is handled. Duration 91 ms by bot id=8282864705
+2025-11-16 17:16:03,782 - app.services.favorites - INFO - Файл избранного загружен, пользователей: 1
+2025-11-16 17:16:03,782 - app.services.favorites - INFO - Загружено 2 избранных постов для пользователя 808403694
+2025-11-16 17:16:03,974 - aiogram.event - INFO - Update id=799745515 is handled. Duration 198 ms by bot id=8282864705
+2025-11-16 17:16:05,640 - aiogram.event - INFO - Update id=799745516 is handled. Duration 6 ms by bot id=8282864705
+2025-11-16 17:16:10,637 - aiogram.event - INFO - Update id=799745517 is handled. Duration 8 ms by bot id=8282864705
+2025-11-16 17:16:11,391 - aiogram.event - INFO - Update id=799745518 is handled. Duration 7 ms by bot id=8282864705
+2025-11-16 17:18:27,016 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 17:18:27,017 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 17:18:27,065 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 17:18:30,624 - aiogram.event - INFO - Update id=799745519 is handled. Duration 178 ms by bot id=8282864705
+2025-11-16 17:18:37,896 - aiogram.event - INFO - Update id=799745520 is handled. Duration 150 ms by bot id=8282864705
+2025-11-16 17:18:39,422 - aiogram.event - INFO - Update id=799745521 is handled. Duration 70 ms by bot id=8282864705
+2025-11-16 17:18:40,618 - aiogram.event - INFO - Update id=799745522 is handled. Duration 66 ms by bot id=8282864705
+2025-11-16 17:18:41,640 - aiogram.event - INFO - Update id=799745523 is handled. Duration 119 ms by bot id=8282864705
+2025-11-16 17:18:42,098 - aiogram.event - INFO - Update id=799745524 is handled. Duration 89 ms by bot id=8282864705
+2025-11-16 17:18:42,641 - aiogram.event - INFO - Update id=799745525 is handled. Duration 100 ms by bot id=8282864705
+2025-11-16 17:18:43,211 - aiogram.event - INFO - Update id=799745526 is handled. Duration 133 ms by bot id=8282864705
+2025-11-16 17:18:43,758 - aiogram.event - INFO - Update id=799745527 is handled. Duration 129 ms by bot id=8282864705
+2025-11-16 17:19:15,681 - aiogram.event - INFO - Update id=799745528 is handled. Duration 31308 ms by bot id=8282864705
+2025-11-16 17:19:21,190 - app.handlers.post_creation - INFO - Глобальный обработчик сохранения для пользователя 808403694
+2025-11-16 17:19:21,339 - aiogram.event - INFO - Update id=799745529 is handled. Duration 151 ms by bot id=8282864705
+2025-11-16 17:19:54,826 - aiogram.event - INFO - Update id=799745530 is handled. Duration 156 ms by bot id=8282864705
+2025-11-16 17:19:56,316 - aiogram.event - INFO - Update id=799745531 is handled. Duration 91 ms by bot id=8282864705
+2025-11-16 17:19:59,032 - aiogram.event - INFO - Update id=799745532 is handled. Duration 117 ms by bot id=8282864705
+2025-11-16 17:20:28,656 - app.handlers.image_gen - INFO - ✅ Изображение сгенерировано и сохранено для пользователя 808403694
+2025-11-16 17:20:28,706 - aiogram.event - INFO - Update id=799745533 is handled. Duration 25978 ms by bot id=8282864705
+2025-11-16 17:20:32,335 - aiogram.event - INFO - Update id=799745534 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 17:20:35,570 - aiogram.event - INFO - Update id=799745535 is handled. Duration 86 ms by bot id=8282864705
+2025-11-16 17:20:38,100 - aiogram.event - INFO - Update id=799745536 is handled. Duration 177 ms by bot id=8282864705
+2025-11-16 17:20:41,606 - aiogram.event - INFO - Update id=799745537 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 17:20:44,168 - aiogram.event - INFO - Update id=799745538 is handled. Duration 98 ms by bot id=8282864705
+2025-11-16 17:20:46,391 - aiogram.event - INFO - Update id=799745539 is not handled. Duration 7 ms by bot id=8282864705
+2025-11-16 17:21:10,582 - root - INFO - Добробот запущен и готов к работе! Мяу! 🐱
+2025-11-16 17:21:10,582 - aiogram.dispatcher - INFO - Start polling
+2025-11-16 17:21:10,624 - aiogram.dispatcher - INFO - Run polling for bot @nko_ai_bot id=8282864705 - 'Нейропомощник для вашего НКО'
+2025-11-16 17:21:12,608 - aiogram.event - INFO - Update id=799745540 is handled. Duration 259 ms by bot id=8282864705
+2025-11-16 17:21:14,535 - aiogram.event - INFO - Update id=799745541 is handled. Duration 107 ms by bot id=8282864705
+2025-11-16 17:21:16,882 - aiogram.event - INFO - Update id=799745542 is handled. Duration 74 ms by bot id=8282864705
+2025-11-16 17:21:19,359 - aiogram.event - INFO - Update id=799745543 is handled. Duration 110 ms by bot id=8282864705
+2025-11-16 17:21:23,208 - aiogram.event - INFO - Update id=799745544 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 17:21:29,245 - aiogram.event - INFO - Update id=799745545 is handled. Duration 87 ms by bot id=8282864705
+2025-11-16 17:21:35,931 - aiogram.event - INFO - Update id=799745546 is handled. Duration 80 ms by bot id=8282864705
+2025-11-16 17:21:39,772 - aiogram.event - INFO - Update id=799745547 is handled. Duration 94 ms by bot id=8282864705
+2025-11-16 17:21:44,150 - aiogram.event - INFO - Update id=799745548 is handled. Duration 175 ms by bot id=8282864705
+2025-11-16 17:22:40,195 - aiogram.event - INFO - Update id=799745549 is handled. Duration 51376 ms by bot id=8282864705
+2025-11-16 17:23:14,166 - aiogram.event - INFO - Update id=799745550 is handled. Duration 206 ms by bot id=8282864705
+2025-11-16 17:23:16,318 - aiogram.event - INFO - Update id=799745551 is handled. Duration 68 ms by bot id=8282864705
+2025-11-16 17:23:17,741 - aiogram.event - INFO - Update id=799745552 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 17:23:18,911 - aiogram.event - INFO - Update id=799745553 is handled. Duration 79 ms by bot id=8282864705
+2025-11-16 17:23:20,429 - aiogram.event - INFO - Update id=799745554 is handled. Duration 67 ms by bot id=8282864705
+2025-11-16 17:23:29,047 - aiogram.event - INFO - Update id=799745555 is handled. Duration 111 ms by bot id=8282864705
+2025-11-16 17:23:30,988 - aiogram.event - INFO - Update id=799745556 is handled. Duration 69 ms by bot id=8282864705
+2025-11-16 17:25:09,983 - app.handlers.post_creation - INFO - ✅ Пост с улучшенной идеей создан и сохранен для пользователя 1020500948
+2025-11-16 17:25:09,984 - aiogram.event - INFO - Update id=799745557 is handled. Duration 29531 ms by bot id=8282864705

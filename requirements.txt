@@ -1,0 +1,10 @@
+aiogram
+python-dotenv
+requests
+torch
+torchvision
+diffusers
+accelerate
+transformers
+pillow
+aiohttp
